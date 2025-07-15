@@ -1,0 +1,89 @@
+* {
+  font-size: 15px;
+  font-family: "JetBrainsMono Nerd Font", monospace;
+  color: #eeeeee;
+}
+
+window#waybar {
+  background-color: rgba(0, 0, 0, 1); /* 🩶 soft dark grey, 40% opacity */
+  /*background: transparent; */
+  border-bottom: 1px solid rgba(24, 24, 37, 0.6); /* slightly transparent border */
+  border-radius: 0px;
+  
+  margin: 6px;
+}
+
+#clock,
+#tray,
+#battery,
+#cpu,
+#window,
+#memory,
+#network,
+#scratchpad,
+#temperature,
+#pulseaudio,
+#backlight {
+  background: transparent;
+  padding: 0px 0px;
+  border-radius: 6px;
+  margin: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-right: 14px;
+}
+
+
+
+hyprland-workspaces {
+  margin-left: 5px;
+}
+
+hyprland-workspaces button {
+  padding: 0 5px;
+  margin-right: 1px;
+  border-radius: 4px;
+  background: transparent;
+  color: #cdd6f4;
+}
+
+hyprland-workspaces button:hover {
+  background-color: rgba(50, 50, 50, 0.5);
+  color: #ffffff;
+}
+
+hyprland-workspaces button.active {
+  background: #5e81ac;
+}
+
+hyprland-workspaces button.urgent {
+  background-color: #fb4934;
+  animation: urgentBlink 1s linear infinite alternate;
+}
+
+#clock {
+  font-size: 16px;
+}
+
+#tray {
+  padding: 0px 4px;
+}
+
+#backlight {
+  color: #ff2000;
+}
+
+#pulseaudio {
+  color: #ff2000;
+}
+
+#battery {
+  /*color: #81a1c1;*/
+  color: #ff2000
+}
+
+.modules-left,
+.modules-right,
+.modules-center {
+  padding: 4px 0px;
+}
