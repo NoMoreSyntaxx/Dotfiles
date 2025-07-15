@@ -26,9 +26,17 @@ kitty,
 tofi,
 waybar,
 
-Can be installed by executing the following command
+Can be installed by executing the following commando con
 
 * On Arch:  
 ```sudo pacman -s kitty waybar && yay -S tofi```
 
 ( I have to test on more distros for now just try stuff using ur package manager please qwq )
+
+- EDIT RIGHT HERE -
+- tkinter must be installed for python.
+- that's basically it thx!
+- 
+Now just place all of the folders to the home directory and merge all folders and files (use a file explorer)
+
+The dots should be installed now!
