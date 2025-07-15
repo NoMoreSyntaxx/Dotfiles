@@ -42,6 +42,9 @@ L
 
 Now just place all of the folders to the home directory and merge all folders and files (use a file explorer)
 
+To change your theme execute Change-Theme from your application launcher! 
+Alternatively, you can also manually launch it by executing the *main.py* file located at ~/.config/hypr/scripts/ThemeSwitcher
+
 The dots should be installed now!
 
 # Binds
