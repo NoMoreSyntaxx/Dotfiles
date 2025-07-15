@@ -24,6 +24,7 @@ Hyprshot
 
 Non-Hyprland apps:
 
+swaybg
 kitty,
 tofi,
 waybar,
@@ -31,7 +32,7 @@ waybar,
 Can be installed by executing the following commando con
 
 * On Arch:  
-```sudo pacman -s kitty waybar thunar && yay -S tofi```
+```sudo pacman -s kitty waybar thunar swaybg && yay -S tofi```
 
 ( I have to test on more distros for now just try stuff using ur package manager please qwq )
 L
