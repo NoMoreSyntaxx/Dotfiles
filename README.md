@@ -29,4 +29,6 @@ waybar,
 Can be installed by executing the following command
 
 * On Arch:  
-```sudo pacman```
+```sudo pacman -s kitty waybar && yay -S tofi```
+
+( I have to test on more distros for now just try stuff using ur package manager please qwq )
