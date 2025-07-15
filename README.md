@@ -12,10 +12,15 @@ Hyprexpo
 I believe Hyprbars and Hyprexpo can be installed through the hyprpm packages manager.
 I am not so sure about Hy3 though.
 
-# Requirements
+# How to Install 
 
 Just to repeat, If you are going to use my hyprland.conf you need
 
 Hy3
 Hyprbars
 Hyprexpo
+
+And by me styled apps:
+
+kitty
+tofi
