@@ -20,7 +20,13 @@ Hy3
 Hyprbars
 Hyprexpo
 
-And by me styled apps:
+Non-Hyprland apps:
 
-kitty
-tofi
+kitty,
+tofi,
+waybar,
+
+Can be installed by executing the following command
+
+* On Arch:  
+```sudo pacman```
