@@ -29,14 +29,38 @@ waybar,
 Can be installed by executing the following commando con
 
 * On Arch:  
-```sudo pacman -s kitty waybar && yay -S tofi```
+```sudo pacman -s kitty waybar thunar && yay -S tofi```
 
 ( I have to test on more distros for now just try stuff using ur package manager please qwq )
-
+L
 - EDIT RIGHT HERE -
 - tkinter must be installed for python.
 - that's basically it thx!
-- 
+
 Now just place all of the folders to the home directory and merge all folders and files (use a file explorer)
 
 The dots should be installed now!
+
+# Binds
+
+This is for the people using my hyprland.conf.
+
+Super + Arrow Keys -> Move focus
+Alt + Tab -> Switch between focus
+Super + Shift + Arrow Keys -> Move Windows
+Super + Shift + WASD -> Resize focused Window
+Super + R -> Rotate (Dwindle and Hy3 only)
+
+Super + W -> Dwindle Layout
+Super + A -> Master Layoutnt
+Super + S -> Hy3 Layout
+↳ Depending on monitor size you should change the Hy3 section on the top of the config
+
+Super + D -> open tofi-drun (App launcher)
+Super + Q -> open kitty
+Super + E -> open thunar (File Explorer)
+Super + f1 -> Open Expo view (DO NOT recommend, is very buggy)
+
+Super + 1-9 -> Switch Workspaces
+Super + Shift + 1-9 -> Switch workspace and bring focused window
+
