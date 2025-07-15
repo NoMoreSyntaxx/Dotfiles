@@ -65,6 +65,7 @@ Super + 1-9 -> Switch Workspaces
 Super + Shift + 1-9 -> Switch workspace and bring focused window
 
 # Theme previews:
+I recommend running the Wallpapers through an Image enhancer!
 
 ## Blue Bright Mode
 
