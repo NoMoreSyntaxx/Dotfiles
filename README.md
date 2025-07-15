@@ -64,3 +64,21 @@ Super + f1 -> Open Expo view (DO NOT recommend, is very buggy)
 Super + 1-9 -> Switch Workspaces
 Super + Shift + 1-9 -> Switch workspace and bring focused window
 
+# Theme previews:
+
+## Blue Bright Mode
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/955bc8df-4c2a-44b5-b9af-000c102fc55e" />
+
+## Blue Dark Mode
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6b9ecbe3-ee97-46f1-a7b8-60c2f0a6d8f2" />
+
+## Red Dark Mode
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/34c27489-3735-4ee6-978b-884b18e45eb6" />
+
+## Black And White Mode
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0985ea32-8293-4280-8eab-279a8f0e6ad0" />
+
