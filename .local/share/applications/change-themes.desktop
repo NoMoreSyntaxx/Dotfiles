@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Change Theme
+Exec=/home/charlie/.config/hypr/scripts/ThemeSwitcher/main.py
+Icon=preferences-desktop-theme
+Type=Application
+Categories=Utility;
