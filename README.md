@@ -8,8 +8,9 @@ If you DO choose to use my hyprland.conf you will need following plugins:
 Hy3
 Hyprbars
 Hyprexpo
+Hyprshot
 
-I believe Hyprbars and Hyprexpo can be installed through the hyprpm packages manager.
+I believe Hyprbars, Hyprshot and Hyprexpo can be installed through the hyprpm packages manager.
 I am not so sure about Hy3 though.
 
 # How to Install 
@@ -19,6 +20,7 @@ Just to repeat, If you are going to use my hyprland.conf you need
 Hy3
 Hyprbars
 Hyprexpo
+Hyprshot
 
 Non-Hyprland apps:
 
