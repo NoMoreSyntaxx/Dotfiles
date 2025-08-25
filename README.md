@@ -15,7 +15,7 @@ I am not so sure about Hy3 though.
 
 # How to Install 
 
-Just to repeat, If you are going to use my hyprland.conf you need
+Once again, If you are going to use my hyprland.conf you need:
 
 Hy3
 Hyprbars
